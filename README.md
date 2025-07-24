@@ -1,2 +1,2 @@
-# js-with-chai_aur_code
+# js_with
 A code repo for JavaScript (:
